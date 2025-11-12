@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+  
+    <title>Starbucks Recipe</title>
+    
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+	<body>
+		
+		<header>
+			<h1>How to make Starbucks Latte</h1>
+			<!-- we will add the image in a later challenge -->
+			image
+
+		
+			<p>We all love a Starbucks, here's how to make a perfect cup at home to save you some money.</p>
+
+		</header>
+		
+		<section>
+			
+			<h2>Ingredients</h2>
+			
+			<ul>
+			    <li>Starbucks Nespresso Pod</li>
+			   <li>Barista Oat Milk</li>
+			   <li>Caramel Syrup</li>
+			   <li>Cinnamon Powder</li>
+			</ul>
+		</section>
+		
+		<section>
+			
+			<h2>Preperation</h2>
+			<ol>
+			    <li>Place the pod into your nespresso machine</li>
+			    <li>Fill your frother with the oat milk</li>
+			    <li>Insert syrup into mug of your choice</li>
+			    <li>Start machine and frother</li>
+			    <li>Once finished, place frothed milk into mug</li>
+			    <li>Top with cinnamon powder</li>
+			    <li><em>Enjoy!</em></li>
+			</ol>
+		</section>
+		
+		<footer>
+			
+			<p>Copyright Me 2020</p>
+		</footer>
+
+		<script src="script.js"></script>
+	</body>
+</html>
